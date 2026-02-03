@@ -1,0 +1,6 @@
+Q1: Write c program to print hello world
+Q2: WAP in C read and print elements of array
+Q3: WAP in C to find smallest and the largest element 
+Q4: WAP in C to find sum and avg of array elements
+Q5: WAP in C for linear search in an array
+Q6: WAP in C to find second largest num
