@@ -1,0 +1,5 @@
+find sum of all array elements using recursion
+creat an array arr with n elements insert element in  ith position and delete element in jth position
+convert from lower to upperh
+wap to find the sum of rows of matrix of given order r*c
+wap to find product of two matrices using pointers

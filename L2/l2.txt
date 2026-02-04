@@ -1,0 +1,4 @@
+WAP TO reverse an array
+WAP IN C TO SEPERATE ALL 0 AT END AND CIUNT TJEM
+WAP to sort array elements which is stored in two seperate array.
+WAP to read and print student's details
