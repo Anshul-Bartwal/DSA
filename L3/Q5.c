@@ -9,10 +9,12 @@ int main(){
     int *c = &arr[0][0];
     int k=0;
     for(int i=0;i<2;i++){
-        for(int j=0;j<3;j++){
-            arr[i][k++] += arr1[i][j] + arr2[j][i];
+        for(int j=0;j<2;j++){
+            for(int k=0;k<3;k++){
+                *(c + i*2 + j) += (*(a +i*3 + k) )* (*(b + k*2 + j));
+            }
         }
-        k=0;
+            
     }
     for(int i=0;i<2;i++){
         for(int j=0;j<2;j++){
