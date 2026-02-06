@@ -1,0 +1,2 @@
+1:make LL 
+2: mke a function for it 
