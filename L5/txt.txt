@@ -1,0 +1,6 @@
+1: insert at start of ll
+2: insert at aend 
+3: insert at specific pos
+4: same but delete
+5: for double ll too
+5: implement stack and its operations in stack
