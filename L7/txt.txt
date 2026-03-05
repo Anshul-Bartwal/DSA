@@ -1,0 +1,2 @@
+q1: array to queueu
+q2: check if string is palindrome usimg queueueuueueueu
